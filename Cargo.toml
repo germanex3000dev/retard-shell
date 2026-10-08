@@ -1,0 +1,12 @@
+[package]
+name = "retard"
+version = "0.1.0"
+edition = "2024"
+description = "A very small shell written in Rust."
+license = "MIT"
+repository = "https://github.com/Germanex3000/retard"
+readme = "README.md"
+keywords = ["shell", "terminal", "cli", "repl"]
+categories = ["command-line-utilities"]
+
+[dependencies]
