@@ -4,7 +4,9 @@ A very small shell written in Rust.
 
 `retard` reads one command per line, splits it on whitespace and runs the first
 word as a program with the remaining words as arguments. It is about a hundred
-lines long and exists to show how far `std::process::Command` gets you.
+lines long and exists to show how far `std::process::Command` gets you. So 
+basically, it's pointless, again. But remember, this is just a small first version. 
+It will get many cool features soon. 
 
 ## Features
 
